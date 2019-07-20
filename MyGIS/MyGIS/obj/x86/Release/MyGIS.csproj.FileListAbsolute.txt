@@ -1,0 +1,10 @@
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\bin\Release\MyGIS.exe
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\bin\Release\MyGIS.pdb
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Release\MyGIS.csprojResolveAssemblyReference.cache
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Release\MyGIS.Forms.AttributeQueryForm.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Release\MyGIS.MainForm.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Release\MyGIS.Forms.SpatialQueryForm.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Release\MyGIS.Properties.Resources.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Release\MyGIS.csproj.GenerateResource.Cache
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Release\MyGIS.exe
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Release\MyGIS.pdb

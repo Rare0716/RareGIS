@@ -1,0 +1,27 @@
+C:\Users\user3\AppData\Local\Temporary Projects\MyGIS\bin\Debug\MyGIS.exe
+C:\Users\user3\AppData\Local\Temporary Projects\MyGIS\bin\Debug\MyGIS.pdb
+C:\Users\user3\AppData\Local\Temporary Projects\MyGIS\obj\x86\Debug\MyGIS.MainForm.resources
+C:\Users\user3\AppData\Local\Temporary Projects\MyGIS\obj\x86\Debug\MyGIS.Properties.Resources.resources
+C:\Users\user3\AppData\Local\Temporary Projects\MyGIS\obj\x86\Debug\MyGIS.csproj.GenerateResource.Cache
+C:\Users\user3\AppData\Local\Temporary Projects\MyGIS\obj\x86\Debug\MyGIS.exe
+C:\Users\user3\AppData\Local\Temporary Projects\MyGIS\obj\x86\Debug\MyGIS.pdb
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.exe
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.pdb
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.csprojResolveAssemblyReference.cache
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.MainForm.resources
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Properties.Resources.resources
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.csproj.GenerateResource.Cache
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\bin\Debug\MyGIS.exe
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\bin\Debug\MyGIS.pdb
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.AttributeQueryForm.resources
+C:\Users\user3\Desktop\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.SpatialQueryForm.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.exe
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.csprojResolveAssemblyReference.cache
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.AttributeQueryForm.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.MainForm.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Forms.SpatialQueryForm.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.Properties.Resources.resources
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.csproj.GenerateResource.Cache
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\bin\Debug\MyGIS.exe
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\bin\Debug\MyGIS.pdb
+E:\Rare\地理信息系统\gis\Rare\MyGIS\MyGIS\obj\x86\Debug\MyGIS.pdb
